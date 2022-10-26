@@ -4,7 +4,7 @@ __How to disable Snap on Ubuntu 22.04, and some other useful tips.__
 
 ---
 
-Canonical, the maintainers/developers of Ubuntu Linux, a derivative of Debian, are slowly transitioning many previously-native applications to Snap packages. This is quite controversial in the Ubuntu user community, as Snap packages can be easier to manage since they are container-based, however they take up more storage and can be much slower than native applications.
+Canonical, the maintainers/developers of Ubuntu Linux, a derivative of Debian, are slowly transitioning many previously-native applications to Snap packages. This is quite controversial in the Ubuntu user community, as Snap packages can be easier to manage since they are container-based, however they take up more storage and can be much slower than native applications due to their sandboxed environment.
 
 An example of one of these controversial changes is the transition to forced Snap packages for web browsers, such as Chromium and Firefox, in newer releases of the distribution. Here is how to completely disable and uninstall Snap.
 
