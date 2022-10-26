@@ -1,27 +1,6 @@
----
-template: overrides/blog.html
-description: >
-  Guide to installing ExaGear on a Raspberry Pi 4.
-search:
-  exclude: true
-hide:
-  - feedback
----
-
 # Installing ExaGear on a Raspberry Pi
 
 __Guide to installing ExaGear on a Raspberry Pi 4.__
-
-<aside class="mdx-author" markdown>
-![@ryanfortner][@ryanfortner avatar]
-
-<span>__Ryan Fortner__ · @ryanfortner</span>
-<span>
-:octicons-calendar-24: November 19, 2021
-</span>
-</aside>
-
-  [@ryanfortner avatar]: https://avatars.githubusercontent.com/u/71036629
 
 ---
 
